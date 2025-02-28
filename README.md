@@ -32,7 +32,7 @@ Currently looking for a **Junior Node.js Developer** position to apply my skills
 
 ---
 
-![Views](https://komarev.com/ghpvc/?username=Passion4Coder) ![Followers](https://img.shields.io/github/followers/Passion4Coder?style=social)
+![](https://komarev.com/ghpvc/?username=Passion4Coder) ![Followers](https://img.shields.io/github/followers/Passion4Coder?style=social)
 
 
 <!--
