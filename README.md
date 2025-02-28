@@ -1,6 +1,12 @@
 ## 👋 Hi there! I'm Dmytro Hrunytskyi
 
-### About me 👀
+### 💼 Seeking Opportunities
+
+Currently looking for a **Junior Node.js Developer** position to apply my skills in backend development and contribute to innovative projects. Passionate about building scalable and high-performance applications. Also, I'm open to new challenges and wouldn't mind expanding my horizons in the frontend with React.js.
+
+---
+
+### 👀 About me
 
 - 🎓 **Degree:** Bachelor in Software Engineering (Currently pursuing Master's)
 - 💻 Passionate about backend development, especially **Node.js**.
