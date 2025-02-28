@@ -23,6 +23,12 @@ Currently looking for a **Junior Node.js Developer** position to apply my skills
 - **UI libraries**: [![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=ant-design&logoColor=white)](https://ant.design/) [![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://mui.com/material-ui/?srsltid=AfmBOorUNZuJL0OgF8XvrH9CP10xT3DXGtzOfuvUpMJZZeoBHgX8fhro) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 - **Other**: [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
+---
+
+### 💬 Let's Connect
+
+- 📫 Email: [dmytro.hrunytskyi@gmail.com](mailto:dmytro.hrunytskyi@gmail.com)
+- 📱 Telegram: [@DmytroHrunytskyi](https://t.me/DmytroHrunytskyi)
 
 <!--
 **Passion4Coder/Passion4Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
