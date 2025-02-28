@@ -30,6 +30,11 @@ Currently looking for a **Junior Node.js Developer** position to apply my skills
 - 📫 Email: [dmytro.hrunytskyi@gmail.com](mailto:dmytro.hrunytskyi@gmail.com)
 - 📱 Telegram: [@DmytroHrunytskyi](https://t.me/DmytroHrunytskyi)
 
+---
+
+![Views](https://komarev.com/ghpvc/?username=Passion4Coder) ![Followers](https://img.shields.io/github/followers/Passion4Coder?style=social)
+
+
 <!--
 **Passion4Coder/Passion4Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
