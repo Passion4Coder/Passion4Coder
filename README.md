@@ -8,7 +8,7 @@ Currently looking for a **Junior Node.js Developer** position to apply my skills
 
 ### 👀 About me
 
-- 🎓 **Degree:** Bachelor in Software Engineering (Currently pursuing Master's)
+- 🎓 **Degree:** Bachelor in Software Engineering (Currently pursuing Master's).
 - 💻 Passionate about backend development, especially **Node.js**.
 - 🙂 Love working with innovative tech stacks and learning new things in the ever-evolving tech world.
 
